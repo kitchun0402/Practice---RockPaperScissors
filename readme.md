@@ -1,2 +1,2 @@
 <!-- ![RockPaperScissors](screenshot.png) -->
-<img src="screenshot.png" width="20%" />
+<img src="screenshot.png" width="30%" />
